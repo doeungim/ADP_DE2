@@ -1,0 +1,672 @@
+lowph,pltct,race,bwt,gest,inout,twn,meth,toc,delivery,vent,pneumo,pda,cld,pvh,ivh,ipe,sex,dead
+,100.0,white,1250.0,35.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.25,244.0,white,1370.0,32.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.059998,114.0,black,620.0,23.0,born at Duke,0.0,0.0,1.0,vaginal,1.0,0.0,0.0,,,,,female,1
+7.25,182.0,black,1480.0,32.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+6.969997,54.0,black,925.0,28.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,0.0,0.0,definite,definite,,female,1
+7.189999,,white,940.0,28.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.32,282.0,black,1255.0,29.5,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+,,,600.0,26.0,born at Duke,,,,,,,,,,,,,1
+,,,700.0,24.0,born at Duke,,,,,,,,,absent,absent,absent,,1
+7.16,153.0,black,1350.0,34.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.039997,229.0,white,1310.0,32.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,,,,male,0
+,,,550.0,24.0,born at Duke,,,,,,,,,,,,,1
+7.179996,182.0,black,1110.0,28.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,1.0,0.0,1.0,absent,absent,absent,male,0
+7.419998,361.0,white,1180.0,28.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.119999,378.0,white,970.0,28.0,born at Duke,0.0,1.0,1.0,vaginal,1.0,1.0,0.0,0.0,,,,female,1
+7.239998,255.0,black,770.0,26.0,born at Duke,0.0,1.0,1.0,vaginal,1.0,0.0,0.0,1.0,absent,absent,absent,male,0
+7.129997,186.0,white,1490.0,33.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,possible,absent,absent,male,0
+7.269997,,black,1170.0,31.0,born at Duke,1.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.179996,260.0,black,1360.0,31.0,born at Duke,1.0,1.0,0.0,vaginal,1.0,1.0,0.0,0.0,definite,absent,absent,male,0
+7.07,183.0,white,1330.0,31.0,born at Duke,0.0,1.0,1.0,vaginal,1.0,1.0,0.0,1.0,definite,definite,absent,male,0
+7.289997,134.0,white,1000.0,28.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.129997,229.0,black,1120.0,29.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.189999,68.0,white,740.0,26.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+,,,,,born at Duke,,,,,,,,,absent,absent,absent,,1
+7.369999,174.0,black,1100.0,29.0,born at Duke,0.0,0.0,1.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+,,,,26.0,born at Duke,,,,,,,,,,,,,1
+6.939999,261.0,black,820.0,28.0,born at Duke,1.0,0.0,0.0,vaginal,1.0,1.0,0.0,0.0,possible,absent,absent,female,1
+7.309998,257.0,black,810.0,26.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,1.0,absent,absent,absent,female,0
+7.289997,170.0,white,1300.0,31.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,0.0,0.0,,,,female,0
+7.299999,218.0,black,1110.0,30.0,born at Duke,1.0,0.0,1.0,abdominal,0.0,0.0,0.0,0.0,definite,absent,absent,female,0
+7.25,179.0,black,970.0,29.0,born at Duke,0.0,0.0,1.0,abdominal,1.0,0.0,0.0,1.0,absent,absent,absent,female,0
+7.199997,115.0,black,760.0,29.0,born at Duke,0.0,0.0,1.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+,,,560.0,24.0,born at Duke,,,,,,,,,,,,,1
+,,,540.0,24.0,born at Duke,,,,,,,,,,,,,1
+7.339996,270.0,black,1440.0,30.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.23,240.0,black,1360.0,29.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,possible,absent,absent,male,0
+,,,750.0,24.0,born at Duke,,,,,,,,,,,,,1
+,,,880.0,26.0,born at Duke,,,,,,,,,,,,,1
+,,white,990.0,27.0,born at Duke,1.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,possible,absent,absent,male,0
+7.299999,350.0,white,840.0,27.0,born at Duke,1.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.32,250.0,black,1420.0,30.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,possible,absent,absent,female,0
+7.16,74.0,white,1250.0,32.0,transported,1.0,0.0,0.0,vaginal,1.0,1.0,0.0,1.0,absent,absent,absent,male,0
+6.899998,181.0,white,1360.0,30.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,0.0,0.0,definite,absent,absent,female,0
+,,,590.0,23.0,born at Duke,,,,,,,,,,,,,1
+7.289997,234.0,black,1030.0,29.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.259998,174.0,black,1070.0,28.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.289997,51.0,black,1500.0,31.0,born at Duke,0.0,1.0,1.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.059998,200.0,white,1500.0,28.5,born at Duke,0.0,0.0,1.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+,,,1300.0,30.0,transported,,,,,,,,,,,,,1
+7.179996,197.0,white,1100.0,30.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.179996,270.0,black,1400.0,30.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+6.829998,,black,740.0,,transported,,,,vaginal,1.0,0.0,0.0,0.0,definite,definite,definite,male,1
+7.129997,197.0,white,1230.0,28.0,born at Duke,0.0,1.0,1.0,abdominal,1.0,1.0,0.0,0.0,absent,absent,absent,male,0
+6.959999,132.0,white,940.0,28.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,1.0,absent,absent,absent,female,0
+7.199997,247.0,white,920.0,26.0,born at Duke,0.0,0.0,1.0,vaginal,1.0,0.0,0.0,1.0,absent,absent,absent,female,0
+7.16,189.0,black,1420.0,29.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.109997,274.0,black,1030.0,27.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,0.0,0.0,,,,female,1
+6.969997,227.0,white,1360.0,28.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,1.0,0.0,0.0,absent,absent,absent,female,0
+7.199997,226.0,black,1180.0,29.0,born at Duke,0.0,0.0,1.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.219997,144.0,black,1240.0,30.0,transported,0.0,0.0,0.0,,0.0,0.0,0.0,0.0,definite,absent,absent,female,0
+7.25,,black,930.0,25.0,born at Duke,0.0,0.0,1.0,vaginal,1.0,1.0,0.0,0.0,absent,absent,absent,male,1
+7.389999,191.0,black,1320.0,31.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,definite,absent,absent,female,0
+,,,550.0,23.0,transported,,,,,,,,,,,,,1
+,,,540.0,23.0,born at Duke,,,,,,,,,,,,,1
+7.259998,256.0,black,990.0,27.5,born at Duke,1.0,1.0,1.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,male,1
+7.219997,267.0,black,990.0,27.5,born at Duke,1.0,1.0,1.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+6.849998,245.0,black,800.0,28.0,born at Duke,1.0,1.0,1.0,abdominal,1.0,1.0,0.0,0.0,absent,absent,absent,female,1
+7.019997,216.0,white,1270.0,29.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,possible,absent,absent,female,0
+7.169998,247.0,white,1250.0,29.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,1.0,0.0,definite,absent,absent,male,1
+7.259998,191.0,black,1050.0,27.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,1.0,1.0,1.0,absent,absent,absent,male,0
+,,,580.0,23.0,born at Duke,,,,,,,,,absent,absent,absent,,1
+7.279999,209.0,white,1420.0,33.0,transported,1.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+,,,630.0,23.0,born at Duke,,,,,,,,,absent,absent,absent,,1
+7.079998,571.0,black,1450.0,30.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.279999,319.0,white,1270.0,29.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+7.23,259.0,white,1090.0,29.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,1.0,0.0,0.0,absent,absent,absent,female,0
+7.219997,168.0,native American,830.0,28.0,born at Duke,1.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.299999,76.0,black,830.0,28.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.149998,,white,1380.0,32.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,0.0,0.0,absent,absent,absent,female,0
+7.23,211.0,black,1330.0,32.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+7.349998,237.0,white,1440.0,28.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,definite,definite,absent,female,0
+7.209999,397.0,oriental,960.0,28.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,definite,absent,absent,female,0
+7.339996,220.0,black,1240.0,31.5,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,male,0
+7.299999,227.0,white,900.0,27.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.199997,132.0,black,1230.0,30.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.019997,135.0,white,1360.0,33.0,born at Duke,1.0,1.0,0.0,abdominal,1.0,0.0,0.0,0.0,,,,female,0
+7.0,196.0,black,1170.0,29.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,definite,absent,absent,male,0
+7.169998,107.0,white,790.0,27.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,1.0,possible,absent,absent,female,0
+,,,805.0,25.0,born at Duke,,,,,,,,,absent,absent,absent,,1
+7.0,,black,675.0,25.0,born at Duke,1.0,1.0,1.0,vaginal,1.0,0.0,0.0,,absent,absent,absent,female,1
+7.32,232.0,black,1140.0,32.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,definite,absent,absent,male,0
+7.199997,209.0,white,1250.0,29.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,definite,absent,absent,female,1
+7.239998,,black,670.0,26.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,,possible,absent,absent,female,1
+7.009998,24.0,white,1000.0,32.0,transported,0.0,,,abdominal,1.0,0.0,0.0,0.0,definite,absent,absent,male,0
+7.129997,109.0,black,1325.0,30.0,born at Duke,1.0,0.0,0.0,abdominal,1.0,0.0,1.0,1.0,definite,absent,absent,male,0
+7.16,,black,1050.0,30.0,born at Duke,1.0,0.0,0.0,abdominal,1.0,0.0,1.0,1.0,absent,absent,absent,male,0
+7.129997,187.0,white,1310.0,30.0,born at Duke,1.0,1.0,1.0,vaginal,1.0,0.0,0.0,1.0,absent,absent,absent,female,0
+7.189999,161.0,white,1450.0,30.0,born at Duke,1.0,1.0,1.0,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.299999,142.0,black,1200.0,28.0,born at Duke,0.0,0.0,1.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.459999,,white,1210.0,33.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,definite,absent,absent,male,0
+7.139999,286.0,black,880.0,27.0,transported,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,1.0,possible,absent,absent,male,0
+7.239998,183.0,black,1240.0,28.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,male,0
+6.529999,144.0,black,850.0,26.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,1.0,absent,absent,absent,female,0
+7.259998,237.0,black,1460.0,32.0,born at Duke,1.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,male,0
+7.25,288.0,black,1475.0,32.0,born at Duke,1.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+,,,650.0,25.0,born at Duke,,,,,,,,,,,,,1
+7.329998,294.0,white,1180.0,29.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.219997,211.0,black,1450.0,30.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,,,,male,0
+7.219997,190.0,black,1390.0,32.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.209999,,white,875.0,30.0,born at Duke,0.0,,0.0,vaginal,0.0,0.0,0.0,1.0,definite,absent,absent,female,0
+7.199997,248.0,black,1120.0,29.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,definite,absent,absent,male,0
+6.809998,,white,600.0,24.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,1.0,0.0,,,,,male,1
+,,,1040.0,25.0,born at Duke,,,,,,,,,absent,absent,absent,,1
+7.219997,256.0,black,880.0,25.0,transported,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,,,,male,0
+7.259998,334.0,black,1370.0,30.0,born at Duke,0.0,0.0,1.0,abdominal,0.0,0.0,0.0,0.0,definite,absent,absent,female,0
+7.16,299.0,white,1310.0,33.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.169998,130.0,black,865.0,26.5,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,0.0,1.0,absent,absent,absent,male,0
+7.41,204.0,white,1275.0,28.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+7.199997,216.0,white,1160.0,28.0,transported,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.339996,287.0,white,1280.0,28.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,1.0,,,,female,0
+7.339996,207.0,black,1100.0,32.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.23,311.0,black,1415.0,31.0,born at Duke,1.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,male,0
+,,,1100.0,30.0,born at Duke,,,,,,,,,,,,,1
+7.399998,173.0,white,1370.0,30.0,born at Duke,1.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.019997,246.0,white,980.0,28.5,born at Duke,0.0,1.0,1.0,abdominal,1.0,0.0,0.0,0.0,definite,absent,absent,male,0
+7.259998,216.0,white,1000.0,28.0,born at Duke,0.0,1.0,1.0,vaginal,1.0,0.0,0.0,1.0,absent,absent,absent,male,0
+7.129997,235.0,oriental,1360.0,31.0,born at Duke,0.0,0.0,1.0,abdominal,1.0,1.0,1.0,1.0,absent,absent,absent,male,1
+7.379997,313.0,black,1150.0,27.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.439999,260.0,black,1200.0,29.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,male,0
+6.949997,121.0,white,1100.0,30.0,transported,0.0,0.0,1.0,vaginal,1.0,0.0,0.0,0.0,definite,definite,absent,female,1
+7.189999,181.0,black,730.0,27.5,born at Duke,0.0,1.0,0.0,abdominal,1.0,1.0,1.0,1.0,absent,absent,absent,male,0
+7.009998,204.0,white,1070.0,29.0,transported,0.0,0.0,0.0,abdominal,1.0,1.0,0.0,1.0,absent,absent,absent,male,0
+7.16,174.0,black,850.0,28.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,1.0,absent,absent,absent,female,0
+6.969997,223.0,black,1140.0,29.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.119999,,black,660.0,25.0,born at Duke,1.0,0.0,0.0,vaginal,1.0,0.0,0.0,,,,,male,1
+7.349998,,black,570.0,25.0,born at Duke,1.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,male,1
+7.179996,180.0,black,1100.0,28.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,1.0,definite,definite,absent,female,0
+,,native American,1210.0,32.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,1.0,0.0,0.0,,,,female,1
+7.359997,283.0,black,1350.0,31.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,male,0
+7.139999,149.0,black,940.0,28.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,0.0,definite,definite,absent,male,1
+7.119999,149.0,black,765.0,26.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,1.0,absent,absent,absent,female,1
+7.439999,,black,1330.0,33.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.309998,183.0,white,1420.0,30.0,born at Duke,1.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.169998,176.0,white,1450.0,30.0,born at Duke,1.0,0.0,0.0,vaginal,1.0,1.0,0.0,0.0,absent,absent,absent,female,0
+7.119999,117.0,native American,610.0,27.0,transported,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,1.0,absent,absent,absent,male,0
+7.339996,56.0,white,1075.0,27.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,1.0,0.0,0.0,absent,absent,absent,male,1
+7.32,219.0,black,1015.0,26.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+7.23,156.0,black,970.0,28.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,0.0,0.0,,,,female,1
+7.299999,157.0,white,1500.0,30.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,1.0,,,,female,0
+7.139999,63.0,black,1000.0,27.0,born at Duke,0.0,0.0,1.0,vaginal,1.0,1.0,1.0,1.0,absent,absent,absent,female,1
+7.189999,148.0,white,870.0,28.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,1.0,absent,absent,absent,male,0
+7.299999,131.0,white,1310.0,31.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+6.779999,341.0,black,1130.0,29.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,0.0,0.0,definite,definite,absent,female,1
+7.379997,129.0,black,1230.0,31.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.019997,205.0,white,1390.0,31.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,1.0,1.0,,,,male,0
+7.25,377.0,black,1100.0,29.5,born at Duke,1.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+7.219997,242.0,black,1150.0,29.5,born at Duke,1.0,1.0,1.0,vaginal,1.0,0.0,1.0,1.0,absent,absent,absent,male,1
+7.25,199.0,,1010.0,28.0,born at Duke,0.0,0.0,0.0,abdominal,,,,,,,,female,0
+7.299999,351.0,black,1230.0,26.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+7.259998,226.0,black,1010.0,30.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,,,,female,0
+6.849998,173.0,white,1020.0,29.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,male,1
+7.23,186.0,native American,950.0,28.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,1.0,possible,absent,absent,male,0
+7.309998,230.0,black,1000.0,28.0,born at Duke,1.0,0.0,1.0,abdominal,0.0,0.0,0.0,0.0,,,,male,0
+7.189999,239.0,black,1095.0,28.0,born at Duke,0.0,0.0,1.0,abdominal,1.0,0.0,0.0,1.0,absent,absent,absent,male,0
+7.449997,286.0,black,1190.0,29.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.429996,416.0,white,1080.0,28.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,0.0,1.0,possible,absent,absent,male,0
+7.119999,191.0,white,1100.0,28.0,transported,0.0,0.0,0.0,vaginal,1.0,1.0,1.0,0.0,definite,definite,absent,male,1
+7.299999,246.0,white,1340.0,29.0,born at Duke,1.0,1.0,0.0,abdominal,0.0,0.0,0.0,1.0,absent,absent,absent,male,0
+7.32,208.0,white,1280.0,29.0,born at Duke,1.0,1.0,1.0,abdominal,0.0,0.0,1.0,1.0,absent,absent,absent,male,0
+7.419998,289.0,white,1030.0,32.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.169998,50.0,native American,640.0,26.5,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,1.0,,possible,absent,absent,male,1
+7.169998,252.0,black,880.0,26.5,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,0.0,1.0,absent,absent,absent,female,0
+7.279999,175.0,black,1220.0,28.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,definite,absent,male,0
+7.339996,202.0,black,1080.0,32.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.009998,132.0,black,600.0,24.0,transported,0.0,1.0,0.0,vaginal,1.0,0.0,1.0,,definite,absent,definite,female,1
+7.099998,34.0,native American,1110.0,29.0,transported,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,absent,absent,definite,male,0
+7.32,358.0,white,1210.0,30.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,definite,definite,absent,female,0
+7.139999,190.0,black,600.0,25.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,,absent,absent,absent,male,1
+7.099998,28.0,white,1140.0,27.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,definite,definite,absent,female,1
+7.129997,238.0,native American,950.0,27.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,1.0,1.0,definite,absent,absent,female,0
+7.209999,224.0,black,790.0,29.0,transported,0.0,0.0,0.0,vaginal,0.0,0.0,1.0,0.0,absent,absent,absent,male,1
+7.179996,129.0,black,1085.0,27.5,born at Duke,1.0,0.0,0.0,abdominal,1.0,1.0,1.0,0.0,absent,absent,absent,male,1
+7.149998,106.0,black,780.0,27.5,born at Duke,1.0,0.0,0.0,abdominal,1.0,1.0,1.0,1.0,absent,absent,absent,male,0
+7.389999,137.0,black,1180.0,28.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.359997,227.0,white,1180.0,28.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.079998,177.0,black,1240.0,29.0,born at Duke,0.0,0.0,1.0,vaginal,0.0,0.0,0.0,0.0,definite,absent,absent,female,0
+7.369999,90.0,black,1100.0,32.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.329998,271.0,black,1110.0,29.5,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,possible,absent,absent,male,0
+7.259998,179.0,black,670.0,26.5,born at Duke,0.0,1.0,0.0,abdominal,1.0,1.0,0.0,1.0,absent,absent,absent,male,0
+7.32,193.0,black,1430.0,32.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.169998,212.0,black,1077.0,30.0,transported,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,0.0,absent,absent,absent,male,0
+7.169998,247.0,white,808.0,27.5,transported,0.0,0.0,0.0,abdominal,1.0,1.0,0.0,0.0,absent,definite,absent,female,1
+7.189999,135.0,black,1340.0,29.0,born at Duke,0.0,0.0,1.0,vaginal,0.0,0.0,0.0,0.0,absent,possible,absent,female,0
+6.919998,100.0,white,880.0,28.0,transported,1.0,0.0,0.0,abdominal,1.0,1.0,0.0,0.0,definite,definite,absent,female,1
+7.0,187.0,white,880.0,28.0,transported,1.0,0.0,0.0,abdominal,1.0,1.0,0.0,0.0,definite,absent,absent,female,1
+7.369999,175.0,white,1230.0,29.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.179996,122.0,black,1350.0,30.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,1.0,0.0,,,,male,0
+7.089996,272.0,white,1290.0,32.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,1.0,0.0,1.0,absent,absent,absent,male,0
+7.209999,267.0,black,1100.0,28.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,1.0,absent,absent,absent,female,0
+7.25,214.0,black,670.0,25.5,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,,absent,absent,absent,female,1
+7.369999,246.0,black,1360.0,31.5,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.139999,268.0,black,1450.0,32.0,transported,0.0,0.0,0.0,abdominal,1.0,0.0,1.0,1.0,absent,absent,absent,male,1
+7.139999,227.0,black,820.0,28.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.199997,207.0,black,670.0,22.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,,absent,absent,absent,female,1
+7.239998,258.0,black,1280.0,30.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,male,0
+6.989998,110.0,white,975.0,27.5,transported,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,1.0,definite,definite,definite,male,0
+7.119999,57.0,white,1275.0,28.0,transported,1.0,0.0,1.0,abdominal,1.0,1.0,1.0,0.0,,,,female,0
+7.299999,370.0,white,1120.0,28.0,transported,1.0,0.0,1.0,abdominal,1.0,0.0,0.0,0.0,,,,male,0
+6.919998,223.0,black,600.0,23.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,0.0,,,,,male,1
+7.41,187.0,white,1230.0,32.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.079998,261.0,white,1060.0,29.0,born at Duke,0.0,1.0,1.0,abdominal,1.0,0.0,1.0,1.0,absent,absent,absent,female,0
+7.339996,309.0,black,1290.0,30.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.379997,130.0,black,825.0,31.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.189999,,black,652.0,25.0,transported,1.0,0.0,0.0,vaginal,1.0,0.0,0.0,,definite,definite,absent,male,1
+7.109997,192.0,white,1100.0,27.0,transported,0.0,0.0,0.0,abdominal,1.0,1.0,0.0,1.0,absent,absent,absent,male,0
+7.339996,253.0,white,1150.0,29.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+7.339996,88.0,black,870.0,36.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.16,141.0,white,890.0,27.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,1.0,1.0,absent,absent,absent,female,0
+7.329998,234.0,black,1430.0,31.0,transported,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.079998,188.0,black,1140.0,29.0,born at Duke,1.0,0.0,0.0,vaginal,1.0,0.0,1.0,1.0,absent,absent,absent,male,0
+7.059998,56.0,black,1140.0,29.0,born at Duke,1.0,0.0,0.0,abdominal,1.0,0.0,1.0,1.0,definite,definite,absent,female,1
+7.219997,187.0,black,1470.0,34.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.169998,201.0,black,1180.0,29.0,transported,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.089996,49.0,black,765.0,26.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,1.0,1.0,0.0,absent,absent,absent,female,1
+7.129997,226.0,black,1390.0,29.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.289997,168.0,white,900.0,30.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,1.0,0.0,0.0,absent,absent,absent,female,0
+7.339996,134.0,black,980.0,32.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+7.07,129.0,native American,1180.0,30.0,transported,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,1.0,absent,absent,absent,male,0
+7.129997,77.0,native American,1100.0,32.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,1.0,0.0,1.0,,,,male,0
+7.32,236.0,white,1450.0,31.0,born at Duke,1.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.279999,201.0,white,1480.0,31.0,born at Duke,1.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.309998,306.0,white,1270.0,31.5,born at Duke,1.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.119999,155.0,white,1490.0,31.5,born at Duke,1.0,0.0,0.0,abdominal,1.0,1.0,0.0,0.0,absent,absent,absent,male,0
+7.369999,301.0,black,820.0,28.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,1.0,possible,absent,absent,female,1
+7.16,207.0,white,1240.0,29.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,1.0,0.0,0.0,absent,absent,absent,male,1
+6.98,154.0,white,1060.0,31.5,transported,1.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+6.959999,70.0,black,1130.0,29.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.209999,224.0,white,800.0,28.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,0.0,1.0,absent,absent,absent,female,0
+6.919998,126.0,black,880.0,26.0,transported,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,1.0,absent,absent,absent,male,1
+7.099998,175.0,black,720.0,27.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.25,243.0,white,980.0,29.0,born at Duke,1.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.299999,240.0,white,1150.0,29.0,born at Duke,1.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.289997,267.0,black,1320.0,31.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.339996,84.0,white,990.0,29.5,transported,0.0,0.0,0.0,vaginal,0.0,1.0,1.0,0.0,,,absent,male,0
+7.039997,168.0,black,587.0,25.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,1.0,absent,absent,absent,female,0
+7.259998,418.0,white,1380.0,29.5,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.029999,323.0,white,700.0,25.0,transported,1.0,0.0,0.0,vaginal,1.0,1.0,0.0,0.0,,,,female,1
+7.139999,106.0,white,1080.0,28.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.179996,129.0,black,900.0,27.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,1.0,absent,definite,absent,male,0
+7.379997,313.0,black,1300.0,30.0,transported,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.379997,289.0,black,980.0,27.5,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.23,205.0,black,1290.0,33.5,transported,0.0,,,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.219997,214.0,black,1375.0,33.0,transported,0.0,0.0,0.0,vaginal,1.0,1.0,0.0,0.0,absent,possible,absent,male,0
+,103.0,white,880.0,29.0,born at Duke,1.0,0.0,0.0,abdominal,1.0,0.0,1.0,1.0,,absent,absent,male,0
+7.239998,234.0,white,1305.0,29.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.349998,379.0,black,1410.0,32.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,male,0
+6.889999,126.0,white,1500.0,29.0,transported,0.0,0.0,0.0,abdominal,1.0,1.0,0.0,1.0,absent,absent,absent,male,0
+6.759998,249.0,black,610.0,26.0,transported,0.0,0.0,0.0,vaginal,1.0,1.0,0.0,,definite,definite,absent,male,1
+7.349998,252.0,white,1490.0,30.0,born at Duke,0.0,0.0,1.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.299999,212.0,black,1460.0,30.0,born at Duke,1.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.16,84.0,black,850.0,26.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,1.0,1.0,absent,absent,absent,male,1
+7.209999,190.0,black,1450.0,30.0,transported,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+7.179996,282.0,black,1120.0,31.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,1.0,absent,absent,absent,female,0
+7.48,356.0,black,1290.0,30.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+7.359997,172.0,black,1375.0,32.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,definite,absent,female,0
+7.189999,223.0,white,790.0,26.0,transported,0.0,0.0,0.0,vaginal,1.0,1.0,0.0,0.0,absent,absent,absent,male,1
+7.369999,384.0,white,1350.0,32.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.089996,235.0,white,1200.0,31.0,born at Duke,0.0,0.0,1.0,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.059998,256.0,white,1350.0,28.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,1.0,1.0,absent,absent,absent,male,0
+7.059998,82.0,black,740.0,32.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,0.0,1.0,absent,absent,absent,male,1
+7.349998,202.0,white,1180.0,31.0,born at Duke,1.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.129997,258.0,white,1090.0,29.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,0.0,1.0,absent,absent,absent,female,0
+7.239998,185.0,black,1160.0,28.5,born at Duke,1.0,1.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.239998,138.0,black,1280.0,28.5,born at Duke,1.0,1.0,0.0,abdominal,1.0,0.0,1.0,0.0,absent,absent,absent,female,0
+7.209999,185.0,black,1420.0,33.5,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.169998,135.0,white,905.0,27.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.0,148.0,black,860.0,26.5,born at Duke,0.0,0.0,0.0,vaginal,1.0,1.0,0.0,1.0,absent,absent,absent,male,0
+7.32,269.0,black,1250.0,30.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.23,253.0,black,760.0,25.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,0.0,1.0,absent,absent,absent,female,1
+7.349998,168.0,white,1160.0,34.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.119999,158.0,white,1330.0,29.0,born at Duke,1.0,1.0,1.0,abdominal,1.0,1.0,0.0,1.0,absent,absent,absent,male,0
+7.25,251.0,white,1240.0,29.0,born at Duke,1.0,1.0,1.0,abdominal,1.0,0.0,0.0,1.0,absent,absent,absent,female,0
+6.699997,,black,640.0,24.0,transported,0.0,0.0,0.0,vaginal,1.0,1.0,0.0,0.0,absent,absent,absent,male,1
+7.199997,269.0,black,1330.0,32.0,transported,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.25,251.0,white,1240.0,30.0,born at Duke,1.0,1.0,0.0,abdominal,1.0,0.0,0.0,1.0,absent,absent,absent,female,0
+7.369999,365.0,black,1500.0,34.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+7.009998,183.0,black,990.0,26.0,transported,1.0,,,vaginal,1.0,1.0,0.0,0.0,,,,male,1
+7.199997,250.0,black,1410.0,32.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.359997,208.0,black,1335.0,30.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+6.889999,91.0,white,1115.0,28.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+,306.0,white,980.0,27.0,born at Duke,0.0,,,vaginal,1.0,1.0,0.0,0.0,definite,definite,absent,female,1
+7.259998,233.0,white,1240.0,31.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+6.98,244.0,black,1200.0,29.0,transported,0.0,,,vaginal,1.0,0.0,0.0,1.0,definite,definite,absent,female,0
+,,black,1500.0,40.0,transported,0.0,,,abdominal,0.0,1.0,0.0,0.0,,,,male,0
+7.329998,216.0,black,1110.0,33.0,transported,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.079998,142.0,black,950.0,26.0,transported,0.0,,,vaginal,1.0,0.0,1.0,1.0,absent,absent,absent,male,0
+7.299999,190.0,black,1000.0,26.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,0.0,1.0,absent,absent,absent,male,0
+7.179996,260.0,black,1000.0,28.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.339996,179.0,white,1320.0,30.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.389999,160.0,white,1480.0,32.0,born at Duke,1.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.109997,116.0,white,970.0,27.0,born at Duke,0.0,1.0,1.0,vaginal,1.0,1.0,1.0,0.0,possible,definite,absent,male,1
+7.179996,302.0,black,1420.0,29.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,,,,male,0
+7.379997,273.0,black,1480.0,32.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.0,254.0,white,900.0,26.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+6.859997,131.0,black,625.0,24.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,,absent,definite,definite,male,1
+7.209999,188.0,white,1480.0,32.0,born at Duke,0.0,0.0,1.0,vaginal,1.0,0.0,0.0,0.0,,,,female,0
+7.129997,222.0,white,1420.0,31.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.079998,178.0,black,780.0,26.0,transported,0.0,,,abdominal,1.0,1.0,1.0,0.0,definite,definite,absent,male,1
+7.379997,319.0,black,1160.0,28.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.16,302.0,black,1000.0,29.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+,220.0,black,1440.0,32.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,0.0,0.0,,,,male,0
+,272.0,black,745.0,25.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,,,,male,1
+7.029999,107.0,,1025.0,29.0,transported,0.0,,,vaginal,1.0,0.0,0.0,0.0,definite,definite,definite,male,1
+7.07,234.0,white,880.0,27.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,1.0,absent,absent,absent,female,0
+7.179996,157.0,white,1200.0,31.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.329998,302.0,black,1390.0,31.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.179996,181.0,black,1220.0,31.0,transported,0.0,,,vaginal,1.0,0.0,1.0,0.0,absent,absent,absent,male,0
+7.23,199.0,white,1470.0,31.0,transported,0.0,,,vaginal,1.0,0.0,1.0,0.0,absent,absent,absent,male,0
+7.32,207.0,black,1380.0,33.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.489998,278.0,black,1500.0,34.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+7.329998,365.0,black,1110.0,29.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.309998,150.0,white,920.0,29.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.189999,134.0,black,1020.0,28.0,transported,0.0,,,vaginal,1.0,1.0,1.0,1.0,definite,absent,absent,male,1
+7.149998,204.0,black,1250.0,29.0,born at Duke,0.0,,,abdominal,1.0,1.0,1.0,,definite,definite,absent,male,1
+7.309998,284.0,black,1440.0,32.0,born at Duke,1.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.169998,257.0,black,1200.0,28.0,born at Duke,0.0,1.0,1.0,abdominal,1.0,1.0,0.0,0.0,absent,absent,absent,male,0
+,120.0,white,1580.0,31.0,transported,0.0,,,abdominal,1.0,1.0,0.0,0.0,absent,absent,absent,female,0
+7.289997,329.0,black,920.0,29.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.23,257.0,black,1320.0,31.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.23,242.0,black,1200.0,29.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,1.0,0.0,,,,male,0
+7.119999,155.0,black,850.0,27.0,transported,0.0,1.0,,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.269997,145.0,black,1000.0,28.0,born at Duke,0.0,,,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.07,240.0,white,1120.0,30.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,1.0,0.0,0.0,possible,absent,absent,female,0
+7.209999,106.0,black,980.0,33.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+6.969997,152.0,white,1010.0,28.0,transported,0.0,,,abdominal,1.0,1.0,1.0,0.0,absent,definite,absent,female,1
+7.339996,206.0,white,1480.0,32.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,male,0
+7.129997,227.0,black,1280.0,30.0,born at Duke,1.0,1.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.179996,86.0,black,980.0,28.0,transported,0.0,,,vaginal,1.0,0.0,0.0,1.0,absent,definite,absent,female,1
+6.699997,,white,800.0,27.0,transported,0.0,,,abdominal,1.0,1.0,0.0,0.0,,,,male,1
+7.259998,82.0,white,1260.0,35.0,born at Duke,1.0,0.0,0.0,vaginal,0.0,1.0,0.0,0.0,absent,absent,absent,female,0
+7.25,67.0,black,1300.0,29.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,1.0,0.0,0.0,absent,definite,absent,female,1
+6.929996,125.0,black,820.0,27.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,1.0,1.0,absent,absent,absent,male,0
+7.209999,212.0,white,770.0,27.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,1.0,1.0,definite,absent,absent,male,0
+7.359997,308.0,black,1300.0,29.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,1.0,0.0,,,,female,0
+7.359997,238.0,black,1480.0,31.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.199997,259.0,black,1480.0,32.0,born at Duke,0.0,0.0,1.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.389999,122.0,black,1260.0,35.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,male,0
+7.119999,207.0,black,1280.0,29.0,born at Duke,0.0,,,abdominal,1.0,0.0,0.0,0.0,definite,absent,absent,male,1
+7.199997,196.0,black,400.0,24.0,transported,0.0,,,vaginal,1.0,0.0,0.0,,,,,female,1
+7.269997,263.0,white,760.0,25.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.269997,173.0,,1380.0,29.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,0.0,,,,female,0
+7.149998,100.0,black,620.0,27.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,1.0,1.0,definite,absent,absent,male,1
+7.239998,286.0,black,1030.0,28.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,1
+7.129997,336.0,black,760.0,26.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,0.0,1.0,definite,definite,absent,female,1
+7.339996,175.0,white,1200.0,32.0,born at Duke,1.0,,,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+6.889999,258.0,black,1000.0,26.0,born at Duke,0.0,,,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.209999,198.0,oriental,1120.0,27.0,born at Duke,0.0,0.0,1.0,abdominal,1.0,1.0,1.0,1.0,absent,absent,absent,male,0
+7.039997,89.0,black,980.0,29.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,definite,absent,absent,male,0
+7.279999,242.0,,1400.0,30.0,transported,0.0,,,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.309998,170.0,black,920.0,28.0,born at Duke,0.0,,,vaginal,0.0,0.0,1.0,0.0,absent,absent,absent,female,0
+7.359997,256.0,black,1250.0,30.0,transported,0.0,,,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.269997,306.0,black,1360.0,29.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.089996,44.0,black,540.0,25.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,1.0,absent,definite,absent,female,1
+7.099998,132.0,white,960.0,30.0,born at Duke,0.0,,,vaginal,1.0,0.0,0.0,0.0,absent,absent,possible,female,0
+7.099998,274.0,black,1365.0,30.0,born at Duke,1.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.369999,298.0,black,1500.0,30.0,born at Duke,1.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.32,215.0,white,1420.0,30.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+7.23,80.0,black,1230.0,33.0,transported,0.0,,,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+6.899998,203.0,black,840.0,30.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,definite,absent,absent,female,0
+7.089996,206.0,white,600.0,25.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,1.0,1.0,1.0,absent,definite,definite,male,0
+7.239998,178.0,white,1220.0,30.0,transported,0.0,,,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+7.32,214.0,black,740.0,28.0,born at Duke,0.0,1.0,1.0,abdominal,0.0,0.0,0.0,0.0,definite,absent,absent,male,0
+7.189999,51.0,black,820.0,28.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,1.0,1.0,definite,absent,absent,male,0
+7.139999,259.0,white,790.0,28.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,1.0,definite,absent,absent,male,0
+7.289997,271.0,white,1115.0,28.0,born at Duke,0.0,1.0,1.0,abdominal,1.0,0.0,0.0,1.0,absent,absent,absent,male,0
+7.279999,178.0,black,1090.0,28.0,transported,0.0,0.0,1.0,abdominal,1.0,0.0,0.0,0.0,,,,male,0
+7.189999,150.0,white,920.0,27.0,transported,0.0,,,vaginal,1.0,1.0,1.0,0.0,possible,definite,definite,female,0
+7.309998,351.0,white,1460.0,29.0,born at Duke,0.0,,,abdominal,0.0,0.0,0.0,0.0,,,,male,0
+7.309998,274.0,black,1020.0,29.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,definite,absent,absent,male,0
+7.25,194.0,white,1280.0,30.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.129997,132.0,white,880.0,27.0,born at Duke,0.0,1.0,1.0,abdominal,1.0,1.0,0.0,1.0,absent,absent,absent,female,0
+7.169998,158.0,white,1140.0,29.0,born at Duke,0.0,1.0,1.0,vaginal,1.0,0.0,1.0,0.0,absent,absent,absent,male,0
+7.039997,70.0,black,500.0,25.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,1.0,,absent,absent,absent,female,1
+7.189999,235.0,white,1210.0,31.0,born at Duke,1.0,1.0,1.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.259998,241.0,black,1180.0,29.0,born at Duke,0.0,1.0,1.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.209999,73.0,black,760.0,28.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,0.0,definite,absent,absent,female,0
+7.219997,285.0,black,1030.0,28.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.329998,126.0,white,1290.0,34.0,born at Duke,1.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,definite,absent,absent,male,0
+7.369999,220.0,white,1490.0,32.0,born at Duke,0.0,,,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.179996,133.0,black,800.0,29.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,1.0,possible,absent,absent,female,0
+7.079998,107.0,black,600.0,25.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,,absent,absent,absent,female,1
+7.119999,186.0,white,1000.0,27.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,1.0,1.0,1.0,definite,absent,absent,female,1
+7.0,190.0,white,660.0,25.0,born at Duke,0.0,0.0,1.0,vaginal,1.0,0.0,0.0,,definite,absent,absent,male,1
+7.119999,99.0,black,1500.0,32.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,1.0,1.0,absent,absent,absent,male,0
+7.25,210.0,white,1480.0,31.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.269997,144.0,black,1370.0,30.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+6.82,204.0,black,745.0,25.0,born at Duke,0.0,,,vaginal,1.0,0.0,0.0,0.0,definite,definite,definite,male,1
+7.179996,230.0,white,1420.0,28.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.009998,175.0,white,510.0,24.0,born at Duke,1.0,0.0,0.0,vaginal,1.0,1.0,0.0,,definite,definite,absent,female,1
+6.939999,48.0,black,1400.0,28.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,0.0,0.0,definite,definite,definite,male,1
+7.23,126.0,black,900.0,27.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.279999,56.0,black,1400.0,30.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+7.16,169.0,black,820.0,25.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,1.0,1.0,0.0,absent,definite,absent,male,1
+7.049999,168.0,black,740.0,25.0,born at Duke,0.0,0.0,1.0,vaginal,1.0,1.0,1.0,1.0,absent,definite,possible,female,1
+6.859997,96.0,black,575.0,25.0,transported,0.0,,,vaginal,1.0,0.0,0.0,1.0,definite,possible,absent,male,0
+7.239998,250.0,black,670.0,26.0,transported,1.0,,,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.149998,187.0,black,910.0,26.0,transported,1.0,,,vaginal,1.0,1.0,0.0,1.0,absent,absent,absent,male,0
+7.029999,198.0,black,940.0,26.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,1.0,possible,absent,absent,female,0
+7.219997,189.0,black,1245.0,30.0,born at Duke,1.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,,,,male,0
+7.32,102.0,black,940.0,30.0,born at Duke,1.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+,290.0,black,1140.0,30.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,definite,absent,absent,female,0
+7.029999,121.0,white,675.0,25.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,,definite,definite,absent,male,1
+7.339996,,black,1340.0,31.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.269997,175.0,black,1460.0,31.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,definite,definite,absent,female,0
+7.099998,123.0,black,565.0,25.0,transported,0.0,,,vaginal,1.0,0.0,0.0,1.0,definite,possible,absent,male,0
+7.379997,271.0,white,1450.0,29.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,,,,female,0
+7.299999,219.0,black,1320.0,30.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,possible,male,0
+6.809998,43.0,black,710.0,25.0,transported,0.0,,,vaginal,1.0,1.0,0.0,0.0,absent,definite,definite,male,1
+7.32,297.0,white,1230.0,28.0,born at Duke,0.0,1.0,1.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.219997,322.0,white,920.0,26.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.209999,286.0,white,1340.0,28.0,born at Duke,0.0,1.0,1.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.029999,107.0,black,1300.0,29.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,0.0,absent,absent,absent,male,0
+7.359997,191.0,white,1260.0,31.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,male,0
+7.309998,248.0,white,1500.0,32.0,transported,0.0,,,vaginal,0.0,0.0,0.0,0.0,definite,absent,possible,male,0
+7.259998,219.0,black,990.0,28.0,transported,0.0,,,abdominal,1.0,0.0,0.0,0.0,absent,absent,possible,male,0
+,,native American,1060.0,28.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,1.0,1.0,absent,definite,absent,male,0
+7.359997,208.0,white,930.0,26.0,born at Duke,0.0,1.0,1.0,abdominal,0.0,0.0,1.0,0.0,absent,absent,absent,female,0
+7.329998,249.0,black,1420.0,31.0,born at Duke,1.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,definite,absent,absent,female,0
+7.129997,206.0,black,1420.0,31.0,born at Duke,1.0,1.0,0.0,vaginal,1.0,1.0,0.0,0.0,definite,absent,absent,female,0
+7.32,202.0,black,1360.0,32.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+6.929996,176.0,black,905.0,27.0,born at Duke,0.0,0.0,1.0,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.059998,122.0,black,850.0,26.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,1.0,1.0,1.0,definite,absent,absent,male,1
+7.299999,95.0,white,980.0,27.0,born at Duke,0.0,1.0,1.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.25,379.0,black,1500.0,31.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,possible,male,0
+7.079998,311.0,white,860.0,26.0,born at Duke,0.0,,,,1.0,0.0,0.0,1.0,absent,absent,definite,male,0
+7.32,290.0,black,740.0,27.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,1.0,possible,absent,absent,male,0
+7.32,285.0,black,1460.0,30.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.299999,154.0,white,860.0,26.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,1.0,1.0,absent,absent,absent,female,0
+7.079998,148.0,white,1130.0,31.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,1.0,0.0,1.0,absent,definite,absent,male,0
+7.209999,334.0,black,940.0,29.0,transported,0.0,,,abdominal,1.0,0.0,0.0,1.0,absent,possible,definite,male,1
+7.169998,179.0,black,1200.0,32.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.129997,228.0,white,960.0,28.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,1.0,possible,absent,absent,female,0
+7.379997,256.0,black,1120.0,28.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,possible,absent,absent,female,0
+7.099998,232.0,white,1170.0,32.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,definite,absent,definite,female,0
+7.289997,144.0,black,1200.0,35.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.339996,462.0,black,1255.0,29.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,definite,absent,absent,male,0
+7.189999,207.0,black,805.0,29.0,transported,0.0,,,vaginal,1.0,0.0,0.0,0.0,absent,definite,definite,female,0
+7.199997,131.0,black,460.0,23.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,1.0,1.0,,absent,definite,definite,female,1
+7.219997,85.0,black,1070.0,29.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,1.0,absent,absent,possible,male,0
+7.289997,187.0,black,1400.0,31.0,born at Duke,1.0,1.0,1.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.169998,212.0,black,910.0,28.0,transported,0.0,,,vaginal,1.0,0.0,0.0,1.0,definite,possible,absent,female,0
+7.329998,329.0,black,1100.0,28.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,definite,absent,absent,male,1
+7.489998,332.0,black,1400.0,33.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.339996,86.0,black,480.0,23.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,1.0,definite,definite,absent,female,1
+7.189999,119.0,white,1280.0,30.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,1.0,0.0,1.0,definite,absent,absent,male,0
+,,white,1145.0,28.0,,0.0,,,,1.0,,,1.0,,,,male,0
+7.349998,275.0,white,1160.0,31.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,definite,absent,absent,male,0
+7.429996,204.0,white,1440.0,31.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,possible,absent,definite,female,0
+7.299999,179.0,white,1300.0,34.0,born at Duke,1.0,1.0,0.0,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.199997,140.0,black,805.0,26.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,1.0,absent,absent,definite,male,0
+7.129997,99.0,black,1140.0,28.0,transported,0.0,,,vaginal,1.0,0.0,1.0,1.0,definite,absent,absent,male,0
+7.219997,301.0,black,1060.0,28.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,0.0,absent,definite,absent,male,0
+7.139999,314.0,white,1500.0,31.0,born at Duke,1.0,1.0,1.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.089996,394.0,white,1440.0,31.0,born at Duke,1.0,1.0,1.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.109997,225.0,white,1440.0,31.0,born at Duke,1.0,1.0,1.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.25,215.0,white,1400.0,31.0,born at Duke,1.0,1.0,1.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.41,238.0,black,1480.0,30.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.139999,221.0,black,1340.0,29.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,definite,absent,absent,male,0
+7.269997,260.0,white,1120.0,29.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,definite,definite,male,0
+7.189999,181.0,white,900.0,27.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,definite,definite,absent,male,0
+7.16,94.0,black,1370.0,32.0,transported,0.0,,,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.379997,121.0,white,1290.0,31.0,born at Duke,1.0,1.0,1.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.349998,254.0,white,1230.0,31.0,born at Duke,1.0,1.0,1.0,abdominal,1.0,0.0,0.0,1.0,absent,absent,absent,male,0
+7.389999,225.0,white,1450.0,32.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,definite,absent,absent,female,0
+7.309998,251.0,native American,1450.0,30.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,0.0,0.0,definite,absent,absent,male,0
+7.5,250.0,native American,1220.0,32.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,definite,absent,absent,male,0
+7.399998,269.0,white,1450.0,31.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,male,0
+7.329998,227.0,black,1300.0,29.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,absent,definite,absent,male,0
+7.359997,172.0,black,1000.0,34.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.239998,290.0,white,1100.0,26.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,1.0,1.0,absent,definite,absent,female,0
+,65.0,white,1100.0,34.0,born at Duke,1.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.359997,236.0,black,1100.0,30.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+,,black,1060.0,27.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,1.0,0.0,0.0,definite,definite,definite,male,1
+7.049999,83.0,white,1000.0,27.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,1.0,1.0,1.0,absent,definite,possible,male,0
+7.019997,171.0,black,652.0,26.0,transported,0.0,,,vaginal,1.0,0.0,1.0,1.0,absent,definite,absent,male,0
+7.329998,186.0,black,1200.0,28.0,born at Duke,1.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,definite,definite,male,0
+,,black,1180.0,28.0,born at Duke,1.0,0.0,0.0,abdominal,1.0,1.0,0.0,0.0,absent,definite,absent,female,1
+7.359997,206.0,black,920.0,27.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,0.0,1.0,definite,absent,absent,male,0
+6.859997,123.0,black,880.0,27.0,transported,0.0,0.0,0.0,abdominal,,0.0,0.0,,,,,male,1
+7.349998,324.0,black,1200.0,30.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,definite,absent,absent,female,0
+7.32,308.0,white,1160.0,31.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.48,254.0,black,1280.0,32.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,possible,absent,absent,female,0
+7.189999,177.0,white,1300.0,30.0,transported,0.0,,,abdominal,1.0,0.0,1.0,0.0,absent,absent,absent,male,0
+7.16,346.0,black,1500.0,32.0,transported,0.0,,,abdominal,1.0,0.0,0.0,0.0,definite,absent,absent,female,0
+6.949997,120.0,black,800.0,26.0,transported,1.0,,,vaginal,1.0,0.0,0.0,1.0,definite,absent,absent,male,0
+7.039997,115.0,black,830.0,26.0,transported,1.0,,,vaginal,1.0,0.0,0.0,,absent,absent,absent,male,1
+7.329998,211.0,white,1170.0,29.0,transported,1.0,,,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.219997,142.0,white,950.0,29.0,transported,1.0,,,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+6.719997,249.0,white,1070.0,26.0,transported,0.0,,,abdominal,1.0,0.0,0.0,0.0,,,,male,1
+7.029999,187.0,black,900.0,29.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,1.0,0.0,definite,absent,absent,female,0
+7.099998,112.0,white,1075.0,27.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,1.0,0.0,0.0,definite,absent,absent,male,0
+6.919998,225.0,black,1120.0,27.0,transported,0.0,,,vaginal,1.0,0.0,1.0,1.0,definite,absent,absent,male,0
+7.179996,232.0,black,760.0,26.0,born at Duke,0.0,0.0,1.0,abdominal,1.0,0.0,1.0,1.0,absent,absent,absent,male,0
+6.959999,201.0,white,1260.0,27.0,transported,0.0,,,vaginal,1.0,1.0,0.0,1.0,definite,absent,definite,male,0
+7.389999,180.0,black,1320.0,29.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+6.939999,109.0,black,1070.0,27.0,transported,1.0,,,vaginal,1.0,0.0,0.0,0.0,,,,male,1
+7.199997,179.0,black,760.0,27.0,transported,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,1.0,possible,absent,absent,male,0
+7.089996,43.0,white,780.0,31.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,1.0,1.0,absent,definite,definite,male,0
+7.189999,106.0,black,990.0,27.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,1.0,absent,definite,possible,male,0
+6.989998,242.0,white,760.0,26.0,transported,0.0,,,vaginal,1.0,0.0,1.0,1.0,absent,absent,absent,female,0
+7.269997,222.0,black,1100.0,34.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.179996,75.0,white,1100.0,30.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,1.0,0.0,definite,absent,possible,male,0
+7.039997,211.0,black,940.0,29.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.309998,114.0,black,1250.0,31.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+7.179996,91.0,black,870.0,30.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,1.0,0.0,possible,absent,possible,female,0
+7.41,175.0,white,1400.0,33.0,born at Duke,1.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+7.25,180.0,white,1480.0,33.0,born at Duke,1.0,0.0,0.0,vaginal,1.0,0.0,1.0,0.0,definite,absent,absent,male,0
+7.109997,103.0,black,740.0,25.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,1.0,1.0,absent,definite,definite,male,1
+7.359997,231.0,black,1170.0,30.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,possible,absent,possible,female,0
+,,black,1270.0,29.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+,,white,1000.0,28.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.399998,196.0,black,1280.0,29.0,born at Duke,1.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.389999,205.0,black,1000.0,29.0,born at Duke,1.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,definite,female,0
+7.279999,190.0,native American,1005.0,27.0,transported,0.0,,,vaginal,1.0,0.0,1.0,1.0,definite,definite,absent,male,0
+7.189999,321.0,white,890.0,28.0,born at Duke,0.0,0.0,1.0,vaginal,1.0,0.0,1.0,1.0,definite,absent,absent,female,0
+7.199997,165.0,white,1480.0,31.0,transported,0.0,,,abdominal,1.0,1.0,0.0,0.0,absent,absent,absent,male,0
+7.359997,303.0,black,1340.0,31.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,definite,definite,absent,female,0
+7.279999,361.0,black,780.0,27.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,1.0,1.0,definite,absent,absent,male,0
+7.549999,247.0,white,1480.0,34.0,born at Duke,1.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.519997,272.0,white,1200.0,34.0,born at Duke,1.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,possible,absent,absent,female,0
+7.099998,308.0,black,900.0,27.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,possible,absent,absent,female,0
+7.369999,272.0,black,1050.0,27.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.039997,118.0,black,800.0,26.0,born at Duke,0.0,0.0,1.0,abdominal,0.0,0.0,1.0,0.0,absent,absent,absent,female,0
+7.289997,286.0,white,1350.0,31.0,born at Duke,1.0,1.0,1.0,abdominal,0.0,0.0,1.0,0.0,absent,absent,absent,female,0
+7.349998,244.0,white,1340.0,31.0,born at Duke,1.0,1.0,1.0,abdominal,0.0,0.0,0.0,0.0,definite,absent,absent,male,0
+7.329998,261.0,white,1200.0,31.0,born at Duke,1.0,1.0,1.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.25,201.0,white,1420.0,31.0,born at Duke,1.0,1.0,1.0,abdominal,1.0,0.0,0.0,0.0,possible,absent,absent,male,0
+7.169998,226.0,black,1120.0,28.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.399998,191.0,white,1120.0,32.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+,229.0,white,1210.0,33.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.199997,77.0,black,800.0,26.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,1.0,1.0,absent,absent,absent,male,1
+7.139999,146.0,black,1180.0,28.0,transported,0.0,,,vaginal,1.0,0.0,0.0,0.0,definite,definite,absent,female,0
+7.23,47.0,native American,400.0,27.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,0.0,0.0,1.0,absent,absent,absent,female,0
+7.199997,62.0,white,850.0,29.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,0.0,,absent,absent,absent,female,1
+7.25,143.0,native American,1060.0,29.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.349998,274.0,white,1380.0,31.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.219997,205.0,white,1250.0,29.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,1.0,0.0,0.0,,,,female,1
+7.209999,118.0,black,700.0,27.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,1.0,absent,absent,absent,male,1
+,,,1460.0,31.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,possible,absent,absent,male,0
+7.379997,260.0,black,1320.0,31.0,born at Duke,1.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.309998,214.0,black,1300.0,31.0,born at Duke,1.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+,342.0,black,1370.0,31.0,born at Duke,0.0,1.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+,,black,500.0,23.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,,absent,definite,absent,female,1
+7.299999,143.0,black,1060.0,31.0,transported,0.0,,,abdominal,1.0,0.0,1.0,1.0,absent,absent,absent,male,0
+7.239998,304.0,black,680.0,26.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,1.0,absent,absent,absent,male,0
+,219.0,black,920.0,28.0,born at Duke,0.0,1.0,1.0,vaginal,1.0,0.0,0.0,0.0,definite,absent,absent,male,0
+,148.0,white,1480.0,34.0,born at Duke,1.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,,,,male,0
+7.189999,178.0,white,1340.0,31.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,definite,absent,absent,male,0
+6.929996,,white,1030.0,26.0,transported,0.0,1.0,1.0,vaginal,1.0,0.0,0.0,0.0,,,,male,1
+7.179996,149.0,black,920.0,28.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.389999,146.0,black,1180.0,34.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+,,black,1200.0,28.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.349998,217.0,white,1480.0,32.0,born at Duke,0.0,1.0,1.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.179996,219.0,black,740.0,26.0,transported,0.0,,,vaginal,1.0,0.0,0.0,0.0,definite,possible,absent,male,0
+7.32,192.0,black,870.0,27.0,transported,0.0,,,vaginal,1.0,0.0,1.0,1.0,absent,absent,absent,female,0
+7.119999,206.0,white,970.0,26.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,1.0,1.0,0.0,possible,absent,possible,female,1
+6.989998,,black,600.0,23.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,1.0,0.0,,absent,definite,definite,female,1
+7.009998,180.0,white,790.0,26.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,1.0,definite,absent,absent,male,0
+7.219997,146.0,black,1020.0,28.0,born at Duke,1.0,1.0,0.0,abdominal,1.0,0.0,1.0,1.0,absent,absent,absent,male,0
+6.809998,57.0,black,430.0,28.0,born at Duke,1.0,1.0,0.0,abdominal,1.0,1.0,1.0,,,,,male,1
+7.299999,189.0,black,1290.0,32.0,transported,1.0,,,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.23,163.0,black,1390.0,32.0,transported,1.0,,,vaginal,1.0,0.0,1.0,0.0,absent,absent,definite,female,0
+7.379997,290.0,white,1260.0,31.0,born at Duke,0.0,,,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.119999,98.0,black,500.0,25.0,transported,0.0,,,vaginal,1.0,1.0,1.0,1.0,absent,possible,absent,male,1
+7.309998,334.0,black,1310.0,33.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+,,white,770.0,26.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,,1.0,absent,absent,absent,male,0
+7.149998,199.0,black,570.0,25.0,transported,1.0,,,vaginal,0.0,0.0,0.0,0.0,absent,absent,definite,female,0
+7.359997,172.0,black,1210.0,31.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,definite,absent,absent,female,0
+7.129997,154.0,white,1200.0,31.0,born at Duke,1.0,0.0,0.0,abdominal,1.0,0.0,1.0,1.0,absent,absent,absent,female,0
+7.079998,80.0,white,1040.0,31.0,born at Duke,1.0,0.0,0.0,abdominal,1.0,1.0,1.0,1.0,definite,absent,absent,female,0
+7.329998,173.0,black,1000.0,27.0,born at Duke,0.0,0.0,1.0,abdominal,1.0,0.0,1.0,0.0,absent,absent,definite,female,0
+7.199997,85.0,white,1360.0,30.0,transported,0.0,,,abdominal,1.0,0.0,0.0,,absent,absent,absent,female,1
+7.119999,138.0,black,950.0,27.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,1.0,0.0,1.0,definite,absent,possible,female,0
+7.32,211.0,black,1200.0,29.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,definite,absent,absent,female,0
+7.23,387.0,black,1480.0,31.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.379997,353.0,white,1300.0,32.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,definite,absent,definite,female,0
+7.179996,209.0,white,1400.0,31.0,born at Duke,0.0,0.0,1.0,vaginal,1.0,0.0,0.0,0.0,absent,absent,possible,female,0
+7.279999,306.0,oriental,1160.0,27.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,1.0,absent,absent,absent,male,0
+7.469997,127.0,white,1390.0,38.0,transported,0.0,,,abdominal,0.0,0.0,0.0,0.0,possible,absent,absent,,0
+7.289997,196.0,black,1480.0,30.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,definite,absent,absent,female,0
+7.339996,128.0,white,1480.0,33.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.349998,204.0,white,1250.0,32.0,born at Duke,1.0,1.0,1.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.179996,244.0,black,1150.0,28.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,1.0,0.0,absent,absent,absent,female,0
+7.109997,57.0,white,650.0,28.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,0.0,0.0,absent,definite,absent,female,0
+,,white,1400.0,30.0,transported,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.0,217.0,white,660.0,25.0,born at Duke,0.0,0.0,1.0,vaginal,1.0,1.0,0.0,,,,,female,1
+7.169998,352.0,black,1162.0,31.0,transported,0.0,0.0,1.0,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.129997,296.0,black,730.0,25.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,,absent,absent,absent,female,1
+7.289997,264.0,black,1400.0,31.0,transported,0.0,,,vaginal,0.0,0.0,0.0,0.0,definite,absent,absent,male,0
+6.969997,129.0,black,630.0,27.0,transported,1.0,0.0,1.0,abdominal,1.0,1.0,1.0,1.0,possible,absent,definite,female,1
+7.199997,117.0,black,687.0,27.0,transported,1.0,0.0,1.0,abdominal,1.0,0.0,1.0,1.0,definite,absent,definite,male,0
+7.419998,313.0,black,1480.0,32.0,born at Duke,0.0,,,vaginal,0.0,0.0,0.0,0.0,definite,absent,possible,male,0
+7.359997,130.0,black,1430.0,32.0,transported,0.0,,,abdominal,0.0,0.0,0.0,0.0,,,,female,0
+7.209999,191.0,black,1500.0,31.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.279999,310.0,black,1010.0,27.0,born at Duke,0.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.079998,228.0,black,1310.0,28.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,1.0,0.0,0.0,possible,absent,absent,male,0
+6.889999,129.0,black,800.0,25.0,born at Duke,0.0,0.0,0.0,vaginal,,0.0,0.0,,absent,absent,absent,male,1
+7.389999,65.0,black,1080.0,29.0,born at Duke,0.0,1.0,1.0,abdominal,0.0,0.0,0.0,0.0,possible,absent,absent,male,0
+7.339996,70.0,black,1220.0,30.0,born at Duke,1.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.239998,68.0,black,1100.0,30.0,born at Duke,1.0,1.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.029999,131.0,white,1140.0,30.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,0.0,1.0,absent,absent,absent,male,0
+7.189999,195.0,black,1170.0,27.0,transported,0.0,,,abdominal,1.0,1.0,0.0,,absent,possible,absent,male,1
+7.279999,246.0,white,1000.0,28.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+6.98,359.0,white,780.0,26.0,born at Duke,0.0,0.0,0.0,abdominal,,1.0,0.0,,,,,male,1
+7.049999,399.0,black,1010.0,28.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,1.0,absent,definite,absent,male,0
+7.099998,142.0,black,1330.0,30.0,transported,0.0,,,vaginal,1.0,1.0,1.0,0.0,absent,absent,absent,female,0
+,,black,1350.0,31.0,transported,0.0,,,abdominal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+,,black,700.0,27.0,,0.0,,,vaginal,,,,1.0,absent,absent,absent,female,0
+7.219997,131.0,black,540.0,25.0,born at Duke,0.0,0.0,1.0,vaginal,1.0,0.0,0.0,1.0,possible,absent,absent,male,1
+7.209999,16.0,black,700.0,27.0,born at Duke,0.0,1.0,0.0,abdominal,1.0,1.0,0.0,1.0,absent,absent,absent,female,0
+,,black,1160.0,29.0,born at Duke,1.0,,,abdominal,1.0,1.0,,1.0,,,,male,0
+7.329998,225.0,black,1360.0,31.0,born at Duke,1.0,1.0,1.0,abdominal,0.0,0.0,0.0,0.0,definite,absent,absent,female,0
+7.189999,266.0,white,1340.0,29.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,1.0,0.0,absent,absent,absent,female,0
+7.169998,120.0,white,1320.0,29.0,born at Duke,1.0,1.0,1.0,abdominal,1.0,1.0,1.0,0.0,absent,absent,absent,male,0
+7.169998,207.0,white,1230.0,30.0,born at Duke,1.0,1.0,1.0,abdominal,1.0,1.0,1.0,0.0,possible,absent,absent,female,0
+7.189999,46.0,white,910.0,30.0,born at Duke,1.0,1.0,1.0,abdominal,1.0,0.0,1.0,0.0,absent,absent,possible,male,0
+7.049999,244.0,black,1290.0,28.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,1.0,0.0,,definite,definite,absent,female,1
+7.269997,216.0,white,1230.0,31.0,born at Duke,1.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.16,188.0,white,1310.0,31.0,born at Duke,1.0,0.0,0.0,abdominal,1.0,0.0,1.0,0.0,absent,absent,absent,female,0
+7.199997,157.0,white,1240.0,28.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,1.0,0.0,absent,absent,absent,female,0
+7.419998,177.0,black,1300.0,31.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.199997,335.0,white,1250.0,28.0,born at Duke,1.0,1.0,1.0,abdominal,0.0,0.0,1.0,0.0,possible,absent,absent,female,0
+,,white,1230.0,28.0,born at Duke,1.0,1.0,1.0,abdominal,,,,,absent,absent,absent,male,0
+7.16,372.0,white,1120.0,28.0,born at Duke,1.0,1.0,1.0,abdominal,1.0,1.0,1.0,1.0,absent,absent,absent,male,0
+7.16,87.0,white,1200.0,28.0,born at Duke,1.0,1.0,1.0,abdominal,1.0,1.0,1.0,,definite,absent,absent,male,1
+7.269997,38.0,black,1220.0,33.0,born at Duke,0.0,0.0,1.0,abdominal,0.0,0.0,0.0,0.0,definite,absent,absent,male,0
+,,white,1300.0,30.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,1.0,1.0,1.0,definite,definite,absent,female,0
+7.25,277.0,white,720.0,26.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,0.0,definite,absent,absent,female,0
+,,white,920.0,27.0,born at Duke,0.0,,,vaginal,,,,,absent,absent,absent,female,0
+,,white,750.0,27.0,transported,0.0,,,vaginal,1.0,0.0,,1.0,absent,absent,absent,male,0
+7.079998,65.0,native American,1010.0,31.0,transported,0.0,,,vaginal,1.0,0.0,1.0,1.0,definite,definite,definite,female,0
+7.429996,187.0,white,1440.0,35.0,born at Duke,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.179996,214.0,black,720.0,25.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,1.0,absent,absent,absent,male,0
+,,white,1140.0,28.0,transported,0.0,,,abdominal,1.0,0.0,1.0,1.0,definite,definite,definite,female,0
+,,black,500.0,25.0,born at Duke,0.0,0.0,0.0,abdominal,,,,,,,,female,1
+7.169998,160.0,black,800.0,25.0,born at Duke,0.0,0.0,0.0,vaginal,,0.0,0.0,,,,,male,1
+7.179996,172.0,white,835.0,27.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,0.0,1.0,absent,absent,absent,female,0
+7.339996,131.0,black,1040.0,33.0,born at Duke,0.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,female,0
+7.259998,100.0,black,1350.0,30.0,born at Duke,1.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.32,227.0,black,1175.0,30.0,born at Duke,1.0,0.0,0.0,abdominal,0.0,0.0,0.0,0.0,possible,absent,absent,female,0
+,,black,1240.0,27.0,born at Duke,0.0,0.0,1.0,abdominal,1.0,0.0,1.0,1.0,absent,definite,absent,male,0
+7.359997,332.0,black,750.0,26.0,born at Duke,0.0,1.0,0.0,vaginal,1.0,0.0,0.0,0.0,absent,absent,absent,male,0
+6.989998,101.0,white,800.0,25.0,born at Duke,1.0,1.0,1.0,abdominal,1.0,1.0,0.0,,,,,male,1
+7.059998,75.0,white,920.0,25.0,born at Duke,1.0,1.0,1.0,abdominal,1.0,1.0,1.0,,definite,absent,definite,male,1
+,,white,720.0,26.0,born at Duke,1.0,1.0,0.0,abdominal,1.0,0.0,0.0,1.0,absent,absent,definite,female,0
+,,white,850.0,26.0,born at Duke,1.0,1.0,0.0,abdominal,1.0,1.0,1.0,0.0,absent,absent,absent,male,1
+7.029999,105.0,black,610.0,25.0,born at Duke,0.0,0.0,1.0,vaginal,1.0,0.0,0.0,,absent,definite,definite,female,1
+6.739998,327.0,black,800.0,26.0,born at Duke,0.0,0.0,0.0,vaginal,,1.0,0.0,,,,,male,1
+,,white,1100.0,28.0,transported,0.0,,,abdominal,1.0,1.0,1.0,1.0,possible,absent,absent,male,1
+,,white,1320.0,,born at Duke,1.0,0.0,0.0,abdominal,1.0,1.0,1.0,1.0,absent,absent,absent,female,0
+7.059998,223.0,white,1290.0,30.0,born at Duke,1.0,0.0,0.0,abdominal,1.0,1.0,0.0,0.0,definite,definite,absent,female,0
+7.199997,186.0,black,1350.0,30.0,transported,1.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,,,,male,0
+,,black,1100.0,27.0,transported,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,1.0,definite,absent,absent,male,0
+7.179996,289.0,black,910.0,28.0,transported,0.0,0.0,0.0,vaginal,0.0,0.0,0.0,0.0,definite,definite,definite,female,0
+,,,1490.0,,,0.0,,,abdominal,,,,,absent,absent,absent,,0
+7.289997,144.0,black,1320.0,30.0,born at Duke,0.0,1.0,1.0,vaginal,0.0,0.0,0.0,0.0,absent,absent,absent,male,0
+7.239998,278.0,white,805.0,26.0,transported,0.0,0.0,0.0,vaginal,1.0,1.0,0.0,1.0,definite,possible,absent,male,0
+7.199997,290.0,white,1200.0,30.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,1.0,absent,absent,absent,male,0
+,,white,1150.0,29.0,born at Duke,0.0,0.0,0.0,abdominal,1.0,0.0,1.0,1.0,absent,absent,absent,female,0
+7.149998,173.0,white,860.0,29.0,born at Duke,1.0,0.0,0.0,abdominal,1.0,0.0,1.0,,absent,absent,absent,female,1
+7.189999,136.0,white,1050.0,28.0,born at Duke,0.0,0.0,0.0,vaginal,1.0,0.0,1.0,1.0,absent,absent,absent,male,0
